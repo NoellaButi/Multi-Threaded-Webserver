@@ -1,0 +1,4 @@
+# Ignore compiled files and executables
+*.o
+wserver
+wclient
